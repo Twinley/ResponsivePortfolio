@@ -1,0 +1,40 @@
+.mb-3{
+
+    
+    width: 25%;
+}
+h1{
+
+    color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+form{
+
+width: 175px;
+height: 1000px;
+
+
+}
+
+.input-field{
+
+    height:30px;
+    font-size: medium;
+    border-radius: 10px; 
+    border-top: 0px ;
+    border-left: 0px ;
+    border-right: 0px;
+
+}
+.background{
+
+    background-color: white;
+    color: black;
+}
+.body{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+
+
